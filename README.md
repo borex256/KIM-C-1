@@ -199,6 +199,3 @@ ${provider}\nPhone: ${number}\n\nAfter payment, you will receive a download link
 alert(`Download your song here: https://example.com/downloads/${selectedSong}.mp3`);
 closeModal();
 }
-</script>
-</body>
-</html>
