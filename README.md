@@ -81,7 +81,7 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <div class="card">Afro‑pop, dancehall and global fusion artist shaping African sound for the world stage.</div>
 <div class="card">Inspired by legends, driven by innovation, built for international platforms.</div>
 <div class="card">Brand, artist, producer and studio director with a global creative vision.</div>
-</div>
+
 </section>
 
 <section id="music">
@@ -96,7 +96,7 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <div class="card">Global Songwriting & Composition</div>
 <div class="card">Artist Development & Branding</div>
 <div class="card">Mixing, Mastering & Distribution Prep</div>
-</div>
+
 </section>
 
 <section id="shop">
@@ -105,7 +105,7 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <div class="shop-card"><h3>Bayimba</h3><p>UGX 10,000</p><button onclick="openModal('Bayimba',10000)">Buy</button></div>
 <div class="shop-card"><h3>Ambezawo</h3><p>UGX 10,000</p><button onclick="openModal('Ambezawo',10000)">Buy</button></div>
 <div class="shop-card"><h3>Nkukutu</h3><p>UGX 10,000</p><button onclick="openModal('Nkukutu',10000)">Buy</button></div>
-</div>
+
 </section>
 
 <div class="modal" id="checkoutModal">
@@ -116,8 +116,7 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <select id="mmProvider"><option>MTN</option><option>Airtel</option></select>
 <button onclick="confirmPayment()">Confirm Payment</button>
 <button onclick="closeModal()">Cancel</button>
-</div>
-</div>
+
 
 <section id="contact">
 <h2>Global Contact</h2>
