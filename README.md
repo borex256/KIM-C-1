@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -136,6 +136,3 @@ function openModal(song,price){selectedSong=song;selectedPrice=price;document.ge
 function closeModal(){document.getElementById('checkoutModal').style.display='none';document.getElementById('mmNumber').value=''}
 function confirmPayment(){let n=document.getElementById('mmNumber').value.trim();if(n===''){alert('Enter number');return;}alert('Payment request sent for '+selectedSong+' UGX '+selectedPrice);closeModal()}
 </script>
-
-</body>
-</html>
