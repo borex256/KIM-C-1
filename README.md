@@ -102,9 +102,9 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <section id="shop">
 <h2>Global Store</h2>
 <div class="grid">
-<div class="shop-card"><h3>Bayimba</h3><p>UGX 10,000</p><button onclick="openModal('Bayimba',10000)">Buy</button></div>
-<div class="shop-card"><h3>Ambezawo</h3><p>UGX 10,000</p><button onclick="openModal('Ambezawo',10000)">Buy</button></div>
-<div class="shop-card"><h3>Nkukutu</h3><p>UGX 10,000</p><button onclick="openModal('Nkukutu',10000)">Buy</button></div>
+<div class="shop-card"><h3>Bayimba</h3><p>UGX 150,000</p><button onclick="openModal('Bayimba',150,000)">Buy</button></div>
+<div class="shop-card"><h3>Ambezawo</h3><p>UGX 150,000</p><button onclick="openModal('Ambezawo',150,000)">Buy</button></div>
+<div class="shop-card"><h3>Nkukutu</h3><p>UGX 150,000</p><button onclick="openModal('Nkukutu',150,000)">Buy</button></div>
 
 </section>
 
@@ -122,11 +122,11 @@ footer{text-align:center;padding:50px;background:#010108;color:#aaa;letter-spaci
 <h2>Global Contact</h2>
 <p>Studio: Kansanga Konge Buziga, Upper Poster Road, Kampala</p>
 <p>Email: booking@kimcmusic.com</p>
-<p>Management: global@kimcmusic.com</p>
+<p>Management: soundbox@kimcmusic.com</p>
 </section>
 
 <footer>
-<p>© 2026 KIM*C MUSIC • Global African Sound Platform</p>
+<p>© 2026 KIM C MUSIC • Sound box recoreds </p>
 </footer>
 
 <script>
